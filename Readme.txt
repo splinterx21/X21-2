@@ -23,7 +23,6 @@ make install
 
 -------------------------------------------------
 celestia-appd version
-
 -------------------------------------------
 git clone https://github.com/celestiaorg/networks
 
